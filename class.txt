@@ -1,2 +1,7 @@
 jacob
+<<<<<<< HEAD
 daniel
+=======
+ibrahim
+
+>>>>>>> 41057a9 (added name to class.txt)
